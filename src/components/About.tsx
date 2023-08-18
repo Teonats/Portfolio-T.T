@@ -6,16 +6,14 @@ import img1 from "../assets/img-9.png";
 import ListGroup from "react-bootstrap/ListGroup";
 import Heading from "./heading";
 
-import img from "../assets/img.png";
+
 
 function About() {
   return (
     <div className='about-us'>
       <Container>
         <Row className='flex-lg-row flex-column'>
-          <Col>
-            <Image src={img} />
-          </Col>
+          
           <Col className='about-us-content'>
             <div className='mb-3'>
               <Heading title='About Me' />
