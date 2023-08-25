@@ -29,7 +29,7 @@ function Footer() {
               </ListGroup.Item>
               <ListGroup.Item>
                 {" "}
-                <a href='https://www.linkedin.com/in/hoov/'>LinkedIn</a>{" "}
+                <a href='https://www.linkedin.com/in/teona-tskhadaia/'>LinkedIn</a>{" "}
               </ListGroup.Item>
               <ListGroup.Item> {/* <a href='#'>About Us</a> */}</ListGroup.Item>
               <ListGroup.Item> {/* <a href='#'>Contact Us</a> */}</ListGroup.Item>

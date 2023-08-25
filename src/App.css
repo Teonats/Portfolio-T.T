@@ -416,12 +416,14 @@ p {
   padding: 10px 0;
   font-weight: 500;
   font-size: 20px;
- 
 }
 
-.about-us .list-group-item{
+.about-us .list-group-item {
+  width: 80%;
   background-color: #FAEBD7 !important;
-} p {
+};
+
+p {
   width: 80%;
 }
 
