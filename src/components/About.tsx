@@ -43,7 +43,7 @@ function About() {
                     />
                   </svg>
                 </div>
-                <p>Certifications NYU Bootcamp-Software Engenieer </p>
+                <p>Certifications NYU Bootcamp-Software Engineer </p>
               </ListGroup.Item>
               <ListGroup.Item className='d-flex align-items-center'>
                 <div className='check'>
